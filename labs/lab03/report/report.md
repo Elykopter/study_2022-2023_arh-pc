@@ -97,6 +97,12 @@ report.docx
 
 ![Заполнение отчёта](/afs/.dk.sci.pfu.edu.ru/home/k/l/klnovikov/Изображения/Снимки экрана/Screenshot_20221026_152335.png){ #fig:005 width=90% }
 
+6. Отправил файлы с отчетом на github
+
+![Отправка](/afs/.dk.sci.pfu.edu.ru/home/k/l/klnovikov/Изображения/Снимки экрана/Screenshot_20221026_155827.png){ #fig:006 width=90% }
+
+![Otpravka](/afs/.dk.sci.pfu.edu.ru/home/k/l/klnovikov/work/study/2022-2023/Архитектура компьютера/arch-pc/labs/lab03/report/image/Screenshot_20221026_160949.png){ #fig:007 width=90% }
+
 # Выводы
 
 Освоил процесс оформления отчета лабораторной работы с помощью операций легковесного языка разметки Markdown.
